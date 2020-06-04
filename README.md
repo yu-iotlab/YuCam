@@ -5,6 +5,6 @@ More details please check out [Wiki](https://github.com/yu-iotlab/YuCam/wiki)
 <img alt="YuCam" title="YuCam" src="https://github.com/yu-iotlab/YuCam/blob/master/images/YuCamStarter.png"/>
 
 You can download the SD card images for your Raspberry Pi:
-* [Pi Zero W](https://github.com/yu-iotlab/YuCam/releases/download/0.8.1/sdcard_Buildroot201911_Rpi0w_FAST_YuCam20200321_0.8.1.img.7z)
-* [Pi 3](https://github.com/yu-iotlab/YuCam/releases/download/0.8.1/sdcard_Buildroot201911_Rpi3_FAST_YuCam20200321_0.8.1.img.7z)
-* [Pi 4](https://github.com/yu-iotlab/YuCam/releases/download/0.8.1/sdcard_Buildroot201911_Rpi4_FAST_YuCam20200321_0.8.1.img.7z)
+* [Pi Zero W](https://github.com/yu-iotlab/YuCam/releases/download/0.8.1/sdcard_Buildroot201911_Rpi0w_FAST_YuCam20200321_0.8.1.img.zip)
+* [Pi 3](https://github.com/yu-iotlab/YuCam/releases/download/0.8.1/sdcard_Buildroot201911_Rpi3_FAST_YuCam20200321_0.8.1.img.zip)
+* [Pi 4](https://github.com/yu-iotlab/YuCam/releases/download/0.8.1/sdcard_Buildroot201911_Rpi4_FAST_YuCam20200321_0.8.1.img.zip)
